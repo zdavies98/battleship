@@ -2,7 +2,7 @@
  const optionContainer = document.querySelector('.option-container')
  const flipButton = document.querySelector('#flip-button')
  const startButton = document.querySelector('#start-button')
- const resetButton = document.querySelector('#reset-button')
+//  const resetButton = document.querySelector('#reset-button')
  const infoDisplay = document.querySelector('#info')
  const turnDisplay = document.querySelector('#turn-display')
 
